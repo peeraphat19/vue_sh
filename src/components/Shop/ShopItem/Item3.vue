@@ -13,7 +13,7 @@ function PopView() {
               <div class="product-card">
                 <div class="card-img">
                   <img
-                    src="../../../assets/Picture/_DSC9509-1.jpg"
+                    src="@/assets/Picture/_DSC9509-1.jpg"
                     alt="MOON NO.3"
                     class="product-image img-fluid"
                   />

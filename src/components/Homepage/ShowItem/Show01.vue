@@ -6,7 +6,7 @@
       <div class="banner-item image-zoom-effect">
         <div class="image-holder">
           <img
-          src="../../../assets/Picture/_DSC0005-2.jpg"
+          src="@/assets/Picture/_DSC0005-2.jpg"
           alt="product"
           class="img-fluid"
         />
