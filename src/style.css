@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Tiny";
+  src: url(../src/assets/Font/Tiny5/Tiny5-Regular.ttf);
+}
+
+#app {
+  text-align: center;
+}
+
+h1, h2, h4, h5, a{
+  font-family: "Tiny";
+}
